@@ -5,7 +5,7 @@
 Клонирование репозитоория:
 
 ```bash
-$ git clone https://gitlab.informatics.ru/AlSerP/bomberman.git
+$ git clone https://github.com/zayycev22/bomberman.git
 ```
 
 ## Работа с *git*
